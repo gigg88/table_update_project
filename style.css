@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse; /* Removes spacing between cells */
+  width: 100%; /* Sets table width to full width */
+}
+
+th, td {
+  border: 1px solid black; /* Adds borders around cells */
+  padding: 10px; /* Adds padding within cells */
+  text-align: left; /* Aligns text to the left */
+}
+
+th {
+  background-color: lightgray; /* Sets background color for header cells */
+}
+
+  
